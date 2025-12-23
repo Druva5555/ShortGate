@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+.yarn
+.yarnrc*
+.git
+.gitignore
+.env
+coverage
+**/*.test.js
+**/__tests__
